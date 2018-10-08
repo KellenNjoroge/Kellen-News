@@ -27,7 +27,7 @@ This app was deployed in Heroku
 ## Architecture
 This is a list files or directories for News-Highlight app
 
-+ `/api` - scripts implement actual api functions
+
 + `/model` - define  model classes
 + `config.py` - configuration for the app
 + `Procfile` - heroku server configuration

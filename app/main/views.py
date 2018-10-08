@@ -75,4 +75,4 @@ def search(topic):
 
     title = '{search_name_format} Results'
 
-    return render_template('search.html', title=title, news=search_every)
+    return render_template('results.html', title=title, news=search_every)

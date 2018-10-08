@@ -1,6 +1,7 @@
 #my files
 start.sh
 .idea/
+virtual/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
