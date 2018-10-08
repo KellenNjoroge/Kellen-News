@@ -1,5 +1,5 @@
 # Kellen-News
-A flask app that enables busy people to have access to all the news outlets in one app
+A flask app that enables busy people to have access to various news outlets in one app
 
 ## Built by [Kellen Njoroge](https://github.com/KellenNjoroge)
 
