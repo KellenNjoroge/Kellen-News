@@ -1,12 +1,6 @@
 {% extends 'base.html' %}
 {% block content %}
-<div class="container">
-    <form>
-        <input type="text" name="news_query" placeholder="Search for news" class="form-control">
-        <input type="submit"  value="Submit" class="btn btn-default">
-    </form>
 
-</div>
 <div class="row">
         {% for article in news %}
         <div class="col-md-3 articles-details">
